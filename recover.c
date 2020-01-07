@@ -1,3 +1,4 @@
+/* Recovers a series of JPEG images */
 #include <stdio.h>
 #include <stdlib.h>
 #include <cs50.h>
